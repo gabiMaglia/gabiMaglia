@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=gabimaglia&label=Profile%20views&color=0e75b6&style=flat" alt="gabimaglia" />
 </p>
 
-<p>🌱 I’m currently learning **React, Express, Postgres**</p>
+<p>🌱 I’m currently learning **React, NextJS, Express, Postgres**</p>
 
 <p>👨‍💻 All of my projects are available at <a href="https://portfolio.gabrielmaglia.me/me/personal">https://portfolio.gabrielmaglia.me/me/personal</a></p>
 
