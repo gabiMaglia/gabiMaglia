@@ -7,11 +7,11 @@
 
 <p>🌱 I’m currently learning **React, NextJS, Express, Postgres**</p>
 
-<p>👨‍💻 All of my projects are available at <a href="https://portfolio.gabrielmaglia.me/me/personal">https://portfolio.gabrielmaglia.me/me/personal</a></p>
+<p>👨‍💻 All of my projects are available at <a href="https://www.gabrielmaglia.com">(https://www.gabrielmaglia.com)</a></p>
 
 <p>💬 Ask me about **React, Express**</p>
 
-<p>📫 How to reach me <a href="mailto:gab.maglia@gmail.com">gab.maglia@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:contactme@gabrielmaglia.com">contactme@gabrielmaglia.com</a></p>
 
 <h3 >Connect with me:</h3>
 <p >
